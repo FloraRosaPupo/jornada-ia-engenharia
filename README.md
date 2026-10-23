@@ -84,3 +84,27 @@ Cada semana gera um post público documentando o que foi aprendido e construído
 ## Entrega executável
 
 [Baseline de busca lexical](experimentos/README.md), com testes automatizados e CI. As demais fases permanecem planejadas.
+
+
+## Stack e bibliotecas
+
+Python padrão: math, collections, argparse e unittest.
+
+
+## Funcionalidades
+
+- Busca lexical TF-IDF.
+- corpus de exemplo.
+- roteiro de estudos.
+
+
+## Licença
+
+Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
+
+
+## Organização e manutenção
+
+Experimentos independentes em `experimentos` e testes em `tests`; o roteiro distingue entregas existentes de diretórios planejados. Funções puras permitem estudar sem depender de API ou modelo remoto.
+
+Veja [a revisão de desenvolvimento](docs/REVISAO.md) para decisões, testes e limites, e [o guia de contribuição](CONTRIBUTING.md) para o fluxo de manutenção.
