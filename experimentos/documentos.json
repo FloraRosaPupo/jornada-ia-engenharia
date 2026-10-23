@@ -1,0 +1,6 @@
+[
+  {"id":"testes","text":"Testes automatizados verificam regras de negócio e regressões."},
+  {"id":"integracao","text":"Integração contínua executa testes a cada alteração no repositório."},
+  {"id":"busca","text":"Busca lexical compara termos da consulta com termos dos documentos."},
+  {"id":"embeddings","text":"Embeddings representam textos como vetores para busca semântica."}
+]
