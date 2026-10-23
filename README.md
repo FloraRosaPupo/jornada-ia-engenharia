@@ -1,6 +1,26 @@
-# 🚀 IA + Engenharia de Software + DevOps/Cloud
+# Jornada de IA e Engenharia de Software
 
-Repositório de estudos e projetos práticos de um cronograma de 23 semanas (14/09/2026 → 21/02/2027), cobrindo desde fundamentos de NLP/LLM até uma plataforma de IA em produção.
+## Descrição
+
+Repositório de estudos que reúne um roteiro de aprendizado e experimentos executáveis de IA e engenharia de software. A entrega atual inclui busca lexical com TF-IDF e testes; as etapas de RAG, agentes e implantação descritas no roteiro são planejamento.
+
+## Stack e bibliotecas
+
+Python padrão: math, collections, argparse e unittest.
+
+## Funcionalidades
+
+- Busca lexical TF-IDF.
+- Corpus de exemplo.
+- Roteiro de estudos.
+
+## Licença
+
+Não há uma licença de distribuição definida para este repositório. Nenhuma licença MIT, Apache ou equivalente é concedida por este README. As atribuições e os direitos dos materiais de terceiros permanecem preservados.
+
+## Validação e limites
+
+Ranking lexical, entradas vazias e normalização. Não é um sistema de embeddings, RAG ou geração de texto.
 
 ## Princípio do projeto
 
@@ -84,24 +104,6 @@ Cada semana gera um post público documentando o que foi aprendido e construído
 ## Entrega executável
 
 [Baseline de busca lexical](experimentos/README.md), com testes automatizados e CI. As demais fases permanecem planejadas.
-
-
-## Stack e bibliotecas
-
-Python padrão: math, collections, argparse e unittest.
-
-
-## Funcionalidades
-
-- Busca lexical TF-IDF.
-- corpus de exemplo.
-- roteiro de estudos.
-
-
-## Licença
-
-Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
-
 
 ## Organização e manutenção
 
